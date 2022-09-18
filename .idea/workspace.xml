@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2084a325-030a-49e8-9ff8-5052801a1b43" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/src/basic/Class01/Code01_SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class01/Code02_BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class01/Code03_InsertSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class01/Code04_BSExist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class01/Code06_BSAwesome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class01/Code07_EvenTimesOddTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code01_ReverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code02_DeleteGivenValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code03_DoubleEndsQueueToStackAndQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code04_RingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code05_GetMinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code06_TwoStacksImplementQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class02/Code07_TwoQueueImplementStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class04/Code01_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class04/Code03_ReversePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class04/Code04_BiggerThanRightTwice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class05/Code00_PreSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class05/Code01_CountOfRangeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class05/Code02_PartitionAndQuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class06/Code02_Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class06/Code03_HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class06/sortedArrDistanceLessK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class07/Code01_CoverMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class07/Code02_EveryStepShowBoss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class07/HeapGreater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class08/Code01_Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class08/Code02_Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class08/Code03_CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class08/Code04_RadixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class09/Code01_LinkedListMid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class09/Code02_IsPalindromeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class09/Code03_SmallerEqualBigger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class09/Code04_CopyListWithRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basic/Class10/Code01_FindFirstIntersectNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/Code01_MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/Code02_SameTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/Code03_SymmetricTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/Code04_MaximumDepthOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/Code05_ConstructBinaryTreeFromPreorderAndInorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/ShowComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/ShowPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class06/TraversalBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class07/Code01_BinaryTreeLevelOrderTraversalII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class07/Code02_BalancedBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class07/Code03_PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class07/Code04_PathSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class07/Code05_IsBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class08/Code01_GetMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class08/Code02_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class08/Code03_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Class08/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo02/Code09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo03/Code02_LinkedListToQueueAndStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo03/Code03_DoubleLinkedListToDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo03/Code04_ReverseNodesInKGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo03/Code05_AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo03/Code06_MergeTwoSortedLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo4/Code02_BitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/begin/Demo4/Code03_BitAddMinusMultiDiv.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\mydata\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../mysoft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\mysoft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Ev1gEaeiqJQ7c4MmEnfwUBIQL1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/mydata/myproject/algorithm-study/src/begin",
+    "project.structure.last.edited": "项目",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mydata\myproject\algorithm-study\src\begin" />
+      <recent name="D:\mydata\myproject\algorithm-study\src\begin\Demo01" />
+      <recent name="D:\mydata\myproject\algorithm-study\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.Code01_FindFirstIntersectNode">
+    <configuration name="Code01_FindFirstIntersectNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.Class10.Code01_FindFirstIntersectNode" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.Class10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_IsPalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.Class09.Code02_IsPalindromeList" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.Class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code03_SmallerEqualBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.Class09.Code03_SmallerEqualBigger" />
+      <module name="algorithm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.Class09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.Code01_FindFirstIntersectNode" />
+        <item itemvalue="应用程序.Code03_SmallerEqualBigger" />
+        <item itemvalue="应用程序.Code02_IsPalindromeList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="2084a325-030a-49e8-9ff8-5052801a1b43" name="变更" comment="" />
+      <created>1663461352636</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663461352636</updated>
+      <workItem from="1663461354250" duration="24388000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
