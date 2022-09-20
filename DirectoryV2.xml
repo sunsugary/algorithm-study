@@ -3,4 +3,34 @@
      <tree path="/src/leetcode/q01.java" title="两数之和" extension="java"/>
      <tree path="/src/leetcode/q02.java" title="两数相加" extension="java"/>
      <tree path="/src/leetcode/q03.java" title="无重复字符的最长子串" extension="java"/>
- </trees>
+     <tree path="/src/leetcode/q04.java" title="寻找两个正序数组的中位数" extension="java"/>
+     <tree path="/src/basic/Class10/Code03_UnRecursiveTraversalBT.java" title="非递归遍历二叉树"
+           extension="java"/>
+     <tree path="/src/basic/Class10/Code01_FindFirstIntersectNode.java" title="两个链表的相交节点" extension="java"/>
+     <tree path="/src/basic/Class09/Code01_LinkedListMid.java" title="求链表的中点" extension="java"/>
+     <tree path="/src/basic/Class09/Code02_IsPalindromeList.java" title="判断链表是否是回文结构" extension="java"/>
+     <tree path="/src/basic/Class09/Code03_SmallerEqualBigger.java" title="根据目标值给链表分区" extension="java"/>
+     <tree path="/src/basic/Class09/Code04_CopyListWithRandom.java" title="拷贝具有随机指针的链表" extension="java"/>
+    <tree path="/src/basic/Class08/Code01_Trie.java" title="链表结构单词查找树" extension="java"/>
+    <tree path="/src/basic/Class08/Code02_Trie.java" title="哈希表结构单词查找树" extension="java"/>
+    <tree path="/src/basic/Class08/Code03_CountSort.java" title="计数排序" extension="java"/>
+    <tree path="/src/basic/Class08/Code04_RadixSort.java" title="基数排序" extension="java"/>
+    <tree path="/src/basic/Class07/Code01_CoverMax.java" title="线段覆盖最大值" extension="java"/>
+    <tree path="/src/basic/Class07/Code02_EveryStepShowBoss.java" title="购买榜单TOP" extension="java"/>
+    <tree path="/src/basic/Class07/HeapGreater.java" title="加强堆" extension="java"/>
+    <tree path="/src/basic/Class06/Code02_Heap.java" title="构建堆" extension="java"/>
+    <tree path="/src/basic/Class06/Code03_HeapSort.java" title="堆排序" extension="java"/>
+    <tree path="/src/basic/Class06/sortedArrDistanceLessK.java" title="调整最大K距离排序" extension="java"/>
+    <tree path="/src/basic/Class05/Code00_PreSum.java" title="前缀和数组" extension="java"/>
+    <tree path="/src/basic/Class05/Code01_CountOfRangeSum.java" title="区间和的个数" extension="java"/>
+    <tree path="/src/basic/Class05/Code02_PartitionAndQuickSort.java" title="快排分层" extension="java"/>
+    <tree path="/src/basic/Class04/Code01_MergeSort.java" title="归并排序" extension="java"/>
+    <tree path="/src/basic/Class04/Code03_ReversePair.java" title="逆序对" extension="java"/>
+    <tree path="/src/basic/Class04/Code04_BiggerThanRightTwice.java" title="重要翻转对" extension="java"/>
+    <tree path="/src/basic/Class01/Code04_BSExist.java" title="二分查找" extension="java"/>
+    <tree path="/src/basic/Class01/Code01_SelectionSort.java" title="选择排序" extension="java"/>
+    <tree path="/src/basic/Class01/Code02_BubbleSort.java" title="冒泡排序" extension="java"/>
+    <tree path="/src/basic/Class01/Code03_InsertSort.java" title="插入排序" extension="java"/>
+    <tree path="/src/basic/Class01/Code06_BSAwesome.java" title="局部最小" extension="java"/>
+    <tree path="/src/basic/Class01/Code07_EvenTimesOddTimes.java" title="找出现偶数次的数" extension="java"/>
+</trees>

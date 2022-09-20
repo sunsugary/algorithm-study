@@ -11,16 +11,16 @@ import java.util.Map;
  */
 public class q03 {
 
-    public static int lengthOfLongestSubstring(String s) {
+    public  int lengthOfLongestSubstring(String s) {
         Map<Character, Integer> map = new HashMap<>();
-        int n = s.length();
-        int ans = 0;
+        int length = s.length();
         char[] arr = s.toCharArray();
-        for (int start = 0, end = 0; end < n; end++) {
+        int ans = 0;
+        for (int start = 0, end = 0; end < arr.length; end++) {
             if (map.containsKey(arr[end])) {
                 start = Math.max(start, map.get(arr[end]));
             }
-            ans = Math.max(ans, end - start + 1);
+            ans = Math.max(end - start + 1, ans);
             map.put(arr[end], end + 1);
         }
         return ans;
@@ -29,6 +29,5 @@ public class q03 {
 
     public static void main(String[] args) {
         String s = "dvdf";
-        System.out.println(lengthOfLongestSubstring(s));
     }
 }
