@@ -41,4 +41,7 @@
     <tree path="/src/leetcode/easy/q26.java" title="删除有序数组的重复项" extension="java"/>
     <tree path="/src/leetcode/easy/q27.java" title="移除数组中目标值" extension="java"/>
     <tree path="/src/leetcode/easy/q35.java" title="搜索插入位置" extension="java"/>
+    <tree path="/src/leetcode/easy/q58.java" title="最后一个单词的长度" extension="java"/>
+    <tree path="/src/leetcode/easy/q66.java" title="数组尾数加一" extension="java"/>
+    <tree path="/src/leetcode/easy/q67.java" title="二进制求和" extension="java"/>
 </trees>
