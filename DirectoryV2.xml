@@ -44,4 +44,8 @@
     <tree path="/src/leetcode/easy/q58.java" title="最后一个单词的长度" extension="java"/>
     <tree path="/src/leetcode/easy/q66.java" title="数组尾数加一" extension="java"/>
     <tree path="/src/leetcode/easy/q67.java" title="二进制求和" extension="java"/>
+    <tree path="/src/leetcode/easy/q69.java" title="x的平方根" extension="java"/>
+    <tree path="/src/leetcode/easy/q70.java" title="爬楼梯" extension="java"/>
+    <tree path="/src/leetcode/easy/q83.java" title="删除链表中的重复元素" extension="java"/>
+    <tree path="/src/leetcode/easy/q88.java" title="合并有序数组" extension="java"/>
 </trees>
