@@ -48,4 +48,11 @@
     <tree path="/src/leetcode/easy/q70.java" title="爬楼梯" extension="java"/>
     <tree path="/src/leetcode/easy/q83.java" title="删除链表中的重复元素" extension="java"/>
     <tree path="/src/leetcode/easy/q88.java" title="合并有序数组" extension="java"/>
+    <tree path="/src/leetcode/easy/q94.java" title="二叉树的中序遍历" extension="java"/>
+    <tree path="/src/leetcode/easy/q100.java" title="相同的树" extension="java"/>
+    <tree path="/src/leetcode/easy/q136.java" title="只出现一次的数字" extension="java"/>
+    <tree path="/src/leetcode/easy/q101.java" title="堆成二叉树" extension="java"/>
+    <tree path="/src/leetcode/easy/q104.java" title="二叉树的最大深度" extension="java"/>
+    <tree path="/src/leetcode/easy/q108.java" title="将有序数组转为二叉搜索树" extension="java"/>
+    <tree path="/src/leetcode/easy/q110.java" title="平衡二叉树" extension="java"/>
 </trees>
