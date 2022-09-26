@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?> 
  <trees>
-     <tree path="/src/leetcode/easy/q01.java" title="两数之和" extension="java"/>
-     <tree path="/src/leetcode/easy/q02.java" title="两数相加" extension="java"/>
-     <tree path="/src/leetcode/easy/q03.java" title="无重复字符的最长子串" extension="java"/>
-     <tree path="/src/leetcode/easy/q04.java" title="寻找两个正序数组的中位数" extension="java"/>
+     <tree path="/src/leetcode/easy01/q01.java" title="两数之和" extension="java"/>
+     <tree path="/src/leetcode/easy01/q02.java" title="两数相加" extension="java"/>
+     <tree path="/src/leetcode/easy01/q03.java" title="无重复字符的最长子串" extension="java"/>
+     <tree path="/src/leetcode/easy01/q04.java" title="寻找两个正序数组的中位数" extension="java"/>
      <tree path="/src/basic/Class10/Code03_UnRecursiveTraversalBT.java" title="非递归遍历二叉树"
            extension="java"/>
      <tree path="/src/basic/Class10/Code01_FindFirstIntersectNode.java" title="两个链表的相交节点" extension="java"/>
@@ -33,26 +33,60 @@
     <tree path="/src/basic/Class01/Code03_InsertSort.java" title="插入排序" extension="java"/>
     <tree path="/src/basic/Class01/Code06_BSAwesome.java" title="局部最小" extension="java"/>
     <tree path="/src/basic/Class01/Code07_EvenTimesOddTimes.java" title="找出现偶数次的数" extension="java"/>
-    <tree path="/src/leetcode/easy/q09.java" title="判断整数X是否回文" extension="java"/>
-    <tree path="/src/leetcode/easy/q13.java" title="罗马数字转整数" extension="java"/>
-    <tree path="/src/leetcode/easy/q14.java" title="最长公共前缀" extension="java"/>
-    <tree path="/src/leetcode/easy/q20.java" title="有效的括号" extension="java"/>
-    <tree path="/src/leetcode/easy/q21.java" title="合并两个有序链表" extension="java"/>
-    <tree path="/src/leetcode/easy/q26.java" title="删除有序数组的重复项" extension="java"/>
-    <tree path="/src/leetcode/easy/q27.java" title="移除数组中目标值" extension="java"/>
-    <tree path="/src/leetcode/easy/q35.java" title="搜索插入位置" extension="java"/>
-    <tree path="/src/leetcode/easy/q58.java" title="最后一个单词的长度" extension="java"/>
-    <tree path="/src/leetcode/easy/q66.java" title="数组尾数加一" extension="java"/>
-    <tree path="/src/leetcode/easy/q67.java" title="二进制求和" extension="java"/>
-    <tree path="/src/leetcode/easy/q69.java" title="x的平方根" extension="java"/>
-    <tree path="/src/leetcode/easy/q70.java" title="爬楼梯" extension="java"/>
-    <tree path="/src/leetcode/easy/q83.java" title="删除链表中的重复元素" extension="java"/>
-    <tree path="/src/leetcode/easy/q88.java" title="合并有序数组" extension="java"/>
-    <tree path="/src/leetcode/easy/q94.java" title="二叉树的中序遍历" extension="java"/>
-    <tree path="/src/leetcode/easy/q100.java" title="相同的树" extension="java"/>
-    <tree path="/src/leetcode/easy/q136.java" title="只出现一次的数字" extension="java"/>
-    <tree path="/src/leetcode/easy/q101.java" title="堆成二叉树" extension="java"/>
-    <tree path="/src/leetcode/easy/q104.java" title="二叉树的最大深度" extension="java"/>
-    <tree path="/src/leetcode/easy/q108.java" title="将有序数组转为二叉搜索树" extension="java"/>
-    <tree path="/src/leetcode/easy/q110.java" title="平衡二叉树" extension="java"/>
+    <tree path="/src/leetcode/easy01/q09.java" title="判断整数X是否回文" extension="java"/>
+    <tree path="/src/leetcode/easy01/q13.java" title="罗马数字转整数" extension="java"/>
+    <tree path="/src/leetcode/easy01/q14.java" title="最长公共前缀" extension="java"/>
+    <tree path="/src/leetcode/easy01/q20.java" title="有效的括号" extension="java"/>
+    <tree path="/src/leetcode/easy01/q21.java" title="合并两个有序链表" extension="java"/>
+    <tree path="/src/leetcode/easy01/q26.java" title="删除有序数组的重复项" extension="java"/>
+    <tree path="/src/leetcode/easy01/q27.java" title="移除数组中目标值" extension="java"/>
+    <tree path="/src/leetcode/easy01/q35.java" title="搜索插入位置" extension="java"/>
+    <tree path="/src/leetcode/easy01/q58.java" title="最后一个单词的长度" extension="java"/>
+    <tree path="/src/leetcode/easy01/q66.java" title="数组尾数加一" extension="java"/>
+    <tree path="/src/leetcode/easy01/q67.java" title="二进制求和" extension="java"/>
+    <tree path="/src/leetcode/easy01/q69.java" title="x的平方根" extension="java"/>
+    <tree path="/src/leetcode/easy01/q70.java" title="爬楼梯" extension="java"/>
+    <tree path="/src/leetcode/easy01/q83.java" title="删除链表中的重复元素" extension="java"/>
+    <tree path="/src/leetcode/easy01/q88.java" title="合并有序数组" extension="java"/>
+    <tree path="/src/leetcode/easy01/q94.java" title="二叉树的中序遍历" extension="java"/>
+    <tree path="/src/leetcode/easy02/q100.java" title="相同的树" extension="java"/>
+    <tree path="/src/leetcode/easy02/q136.java" title="只出现一次的数字" extension="java"/>
+    <tree path="/src/leetcode/easy02/q101.java" title="堆成二叉树" extension="java"/>
+    <tree path="/src/leetcode/easy02/q104.java" title="二叉树的最大深度" extension="java"/>
+    <tree path="/src/leetcode/easy02/q108.java" title="将有序数组转为二叉搜索树" extension="java"/>
+    <tree path="/src/leetcode/easy02/q110.java" title="平衡二叉树" extension="java"/>
+    <tree path="/src/leetcode/easy02/q111.java" title="二叉树的最小深度" extension="java"/>
+    <tree path="/src/leetcode/easy02/q112.java" title="路径总和" extension="java"/>
+   <tree path="/src/leetcode/easy02/q118.java" title="杨辉三角" extension="java"/>
+    <tree path="/src/leetcode/easy02/q119.java" title="杨辉三角II" extension="java"/>
+    <tree path="/src/leetcode/easy02/q121.java" title="买卖股票的最佳时机" extension="java"/>
+    <tree path="/src/leetcode/easy02/q125.java" title="验证回文串" extension="java"/>
+    <tree path="/src/leetcode/easy02/q141.java" title="判断环形链表" extension="java"/>
+    <tree path="/src/basic/Class11/Code01_LevelTraversalBT.java" title="BFS(广度优先遍历)" extension="java"/>
+    <tree path="/src/basic/Class11/Code02_SerializeAndReconstructTree.java" title="二叉树的序列化与反序列化" extension="java"/>
+    <tree path="/src/basic/Class11/Code03_EncodeNaryTreeToBinaryTree.java" title="多叉树转二叉树" extension="java"/>
+    <tree path="/src/leetcode/easy02/q144.java" title="二叉树的先序遍历" extension="java"/>
+    <tree path="/src/leetcode/easy02/q145.java" title="二叉树的后序遍历" extension="java"/>
+    <tree path="/src/leetcode/easy02/q160.java" title="相交链表" extension="java"/>
+    <tree path="/src/leetcode/easy02/q163.java" title="缺失的区间" extension="java"/>
+    <tree path="/src/leetcode/easy02/q168.java" title="Excel表列名" extension="java"/>
+    <tree path="/src/leetcode/easy02/q169.java" title="多数元素" extension="java"/>
+    <tree path="/src/leetcode/easy02/q171.java" title="Excel表序列号" extension="java"/>
+    <tree path="/src/leetcode/easy02/q170.java" title="两数之和III" extension="java"/>
+    <tree path="/src/leetcode/easy02/q190.java" title="颠倒二进制位" extension="java"/>
+    <tree path="/src/leetcode/easy03/q202.java" title="快乐数" extension="java"/>
+    <tree path="/src/leetcode/easy03/q203.java" title="移除链表元素" extension="java"/>
+    <tree path="/src/leetcode/easy03/q205.java" title="同构字符串" extension="java"/>
+    <tree path="/src/leetcode/easy03/q206.java" title="反转单链表" extension="java"/>
+    <tree path="/src/leetcode/easy03/q217.java" title="存在重复元素" extension="java"/>
+    <tree path="/src/leetcode/easy03/q219.java" title="存在重复元素II" extension="java"/>
+    <tree path="/src/leetcode/easy03/q225.java" title="用队列实现栈" extension="java"/>
+    <tree path="/src/leetcode/easy03/q226.java" title="反转二叉树" extension="java"/>
+    <tree path="/src/leetcode/easy03/q228.java" title="汇总区间" extension="java"/>
+    <tree path="/src/leetcode/easy03/q231.java" title="2的幂" extension="java"/>
+    <tree path="/src/leetcode/easy03/q232.java" title="用栈实现队列" extension="java"/>
+    <tree path="/src/leetcode/easy03/q234.java" title="回文链表" extension="java"/>
+    <tree path="/src/leetcode/easy03/q242.java" title="有效的字母异位词" extension="java"/>
+    <tree path="/src/leetcode/easy03/q243.java" title="最短单词距离" extension="java"/>
+    <tree path="/src/leetcode/easy03/q246.java" title="中心对称数" extension="java"/>
 </trees>
