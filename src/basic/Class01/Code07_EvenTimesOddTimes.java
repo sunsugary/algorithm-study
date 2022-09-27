@@ -70,6 +70,10 @@ public class Code07_EvenTimesOddTimes {
          * 怎么取到最右边为1的位置R
          * 需要将除R位上所有的数变成0，只留R位是1
          * a & ( ~a + 1)  = a & -a
+         * 例子：a -> 101011
+         *     ~a -> 010100
+         *   ~a+1 -> 010101
+         *   a & ( ~a + 1) -> 000001 得到最右边的1
          */
         int numR = eor & -eor;
 

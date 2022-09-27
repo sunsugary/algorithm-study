@@ -101,4 +101,17 @@
     <tree path="/src/leetcode/easy03/q266.java" title="回文排列" extension="java"/>
     <tree path="/src/leetcode/easy03/q268.java" title="丢失的数字" extension="java"/>
     <tree path="/src/leetcode/easy03/q270.java" title="最接近的二叉搜索树值" extension="java"/>
+    <tree path="/src/leetcode/hard/q17d19.java" title="消失的两个数字" extension="java"/>
+    <tree path="/src/leetcode/easy03/q278.java" title="第一个错误的版本" extension="java"/>
+    <tree path="/src/leetcode/everyday/q01a02.java" title="判断是否为字符重排" extension="java"/>
+    <tree path="/src/leetcode/everyday" title="每日一题"/>
+    <tree path="/src/leetcode/easy03/q283.java" title="移动0" extension="java"/>
+    <tree path="/src/leetcode/easy03/q290.java" title="单词规律" extension="java"/>
+    <tree path="/src/leetcode/easy03/q293.java" title="反转游戏" extension="java"/>
+    <tree path="/src/leetcode/eays04/q303.java" title="区域和检索-数组不可变" extension="java"/>
+    <tree path="/src/leetcode/eays04/q326.java" title="3的幂" extension="java"/>
+    <tree path="/src/leetcode/eays04/q338.java" title="比特位计数" extension="java"/>
+    <tree path="/src/leetcode/eays04/q342.java" title="4的幂" extension="java"/>
+    <tree path="/src/leetcode/eays04/q344.java" title="反转字符串" extension="java"/>
+    <tree path="/src/leetcode/eays04/q345.java" title="反转字符串中的元音字母" extension="java"/>
 </trees>
