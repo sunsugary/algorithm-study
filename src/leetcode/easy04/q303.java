@@ -1,4 +1,4 @@
-package leetcode.eays04;
+package leetcode.easy04;
 
 /**
  * @ClassName: q303

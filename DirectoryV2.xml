@@ -116,4 +116,29 @@
     <tree path="/src/leetcode/eays04/q345.java" title="反转字符串中的元音字母" extension="java"/>
     <tree path="/src/basic/Class12/Code03_lowestAncestor.java" title="找ab的公共祖先" extension="java"/>
     <tree path="/src/basic/Class12/Code02_MaxSubBSTHead.java" title="最大搜索二叉树" extension="java"/>
+    <tree path="/src/leetcode/eays04/q349.java" title="两个数组的交集" extension="java"/>
+    <tree path="/src/leetcode/eays04/q350.java" title="两个数组的交集2" extension="java"/>
+    <tree path="/src/leetcode/eays04/q367.java" title="有效的完全平方数" extension="java"/>
+    <tree path="/src/leetcode/eays04/q374.java" title="猜数字大小" extension="java"/>
+    <tree path="/src/leetcode/eays04/q383.java" title="赎金信" extension="java"/>
+    <tree path="/src/leetcode/eays04/q387.java" title="只出现一次的第一个字符位置" extension="java"/>
+    <tree path="/src/leetcode/eays04/q389.java" extension="java" title="找不同"/>
+    <tree path="/src/leetcode/eays04/q392.java" title="判断子序列" extension="java"/>
+    <tree path="/src/leetcode/easy05/q401.java" title="二进制手表" extension="java"/>
+    <tree path="/src/leetcode/easy05/q404.java" title="左叶子之和" extension="java"/>
+    <tree path="/src/leetcode/conversionOfNumberSystems" title="进制转换"/>
+    <tree path="/src/leetcode/conversionOfNumberSystems/q405.java" title="十进制转十六进制" extension="java"/>
+    <tree path="/src/leetcode/greedy" title="贪心算法"/>
+    <tree path="/src/leetcode/greedy/q409.java" title="最长回文串" extension="java"/>
+    <tree path="/src/leetcode/easy05/q412.java" title="FizzBuzz" extension="java"/>
+    <tree path="/src/leetcode/array/q412.java" title="FizzBuzz" extension="java"/>
+    <tree path="/src/leetcode/array" title="数组"/>
+    <tree path="/src/leetcode/array/q414.java" title="第三大的数" extension="java"/>
+    <tree path="/src/leetcode/easy05/q415.java" title="字符串相加" extension="java"/>
+    <tree path="/src/leetcode/easy05/q434.java" title="字符串中的单词数" extension="java"/>
+    <tree path="/src/leetcode/easy05/q441.java" title="排列硬币" extension="java"/>
+    <tree path="/src/leetcode/easy05/q448.java" title="找到所有数组种消失的数字" extension="java"/>
+    <tree path="/src/leetcode/easy05/q461.java" title="汉明距离" extension="java"/>
+    <tree path="/src/leetcode/easy05/q463.java" title="岛屿的周长" extension="java"/>
+    <tree path="/src/leetcode/easy05/q476.java" title="数字的补数" extension="java"/>
 </trees>
