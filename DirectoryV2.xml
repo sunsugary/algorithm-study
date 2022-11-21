@@ -116,6 +116,9 @@
     <tree path="/src/leetcode/eays04/q345.java" title="反转字符串中的元音字母" extension="java"/>
     <tree path="/src/basic/Class12/Code03_lowestAncestor.java" title="找ab的公共祖先" extension="java"/>
     <tree path="/src/basic/Class12/Code02_MaxSubBSTHead.java" title="最大搜索二叉树" extension="java"/>
+    <tree path="/src/leetcode/eays04/q448.java" title="找到所有数组中消失的数字" extension="java"/>
+    <tree path="/src/leetcode/eays04/q455.java" title="分发饼干" extension="java"/>
+    <tree path="/src/leetcode/eays04/q459.java" title="重复的字符串" extension="java"/>
     <tree path="/src/leetcode/eays04/q349.java" title="两个数组的交集" extension="java"/>
     <tree path="/src/leetcode/eays04/q350.java" title="两个数组的交集2" extension="java"/>
     <tree path="/src/leetcode/eays04/q367.java" title="有效的完全平方数" extension="java"/>

@@ -1,10 +1,8 @@
 package basic.Class11;
 
-import netscape.security.UserTarget;
 
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.Stack;
 
 /**
  * @ClassName: Code02_SerializeAndReconstructTree

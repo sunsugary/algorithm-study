@@ -55,6 +55,21 @@ public class Code02_MaxSubBSTHead {
             }
 
         }
+//        if (leftInfo == null ? true : (leftInfo.maxBSTHead = x.left) && leftInfo.max < x.value){
+//            //说明当前节点是叶子节点
+//            min = x.value;
+//            max = x.value;
+//            maxBSTHead = x;
+//            maxBSTSize = 1;
+//        }else if (rightInfo != null && leftInfo !=null){
+//            //判断左子树和右子树与当前节点是否能组成BST
+//            if (leftInfo.max < x.value && rightInfo.min > x.value){
+//
+//            }
+//        }
+
+
+
         if ((leftInfo == null ? true : (leftInfo.maxBSTHead == x.left && leftInfo.max < x.value))
                 && (rightInfo == null ? true : (rightInfo.maxBSTHead == x.right && rightInfo.min > x.value))) {
             maxBSTHead = x;
